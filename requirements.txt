@@ -1,0 +1,21 @@
+
+# Scientific Computing
+numpy
+scipy
+
+# Data Manipulation
+pandas
+openpyxl
+
+# Data Visualisation
+matplotlib
+
+# Machine Learning
+scikit-learn
+
+# Jupyter Notebook
+jupyterlab
+ipykernel
+
+# Testing
+pytest
